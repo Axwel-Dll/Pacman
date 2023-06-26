@@ -1,4 +1,5 @@
 ### Pacman
+![](https://imgur.com/e8vo2rt)
 - Evita que PacMan salga del laberinto o atraviese las paredes. :tw-2705:
 
 - ¡Cambia el mapa del mundo y haz el laberinto más interesante! :tw-2705:
